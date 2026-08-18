@@ -63,7 +63,7 @@ the expiration of the user's password.  In this example, it is set to 60 days.
 <img src="https://github.com/user-attachments/assets/28ec63d7-75a3-45bb-86ef-6fdd5b1489a6" width="500" height="300" />
    
  
-The required password complexity is summarize below.
+The required password complexity is summarized below.
 
 
 <img src="https://github.com/user-attachments/assets/a42053e9-f1ae-4cd1-8c92-d54f71acfbcb" width="500" height="300" />
