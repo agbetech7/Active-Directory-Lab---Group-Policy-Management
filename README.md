@@ -72,7 +72,7 @@ The required password complexity is summarize below.
 4.  How many tries should a user have when entering the password before the account is locked?  This can be set by selecting
     Account Policy Lockout in the left pane of the editor and Account lockout threshold in the right pane.  Checkmark the box for
    'Define the policy setting' and select the number of tries before the account is locked out. Click Apply.  In this example,
-    5 invalid logons would result in a lockout.
+    5 invalid logon attempts would result in a lockout.
 
 
 <img src="https://github.com/user-attachments/assets/446bbf0f-8f13-47b7-ba15-f52c7297fb2a" width="500" height="300" />
